@@ -1,0 +1,16 @@
+0:00:00 - Functools is one of the MOST USEFUL Python modules
+0:12:58 - Creating CLIs in Python with Click
+0:26:48 - TypedDict is a LIFESAVER
+0:32:39 - Metaclasses in 17 minutes
+0:49:30 - Python's SECRET diamond operator
+0:52:59 - Working with APIs in Python? Use Pydantic
+1:05:53 - ChatGPT in Python
+1:20:22 - Building a website in Python with Flask
+1:52:27 - PyScript: Python in the FRONTEND?!
+2:01:47 - Creating your first PyPI package
+2:28:56 - TEACHABLE LLMs in Python (Advertisement)
+2:49:10 - Threading vs. multiprocessing in Python
+3:04:03 - Encoding and decoding JWTs in Python
+3:21:48 - Itertools' new batched function is AWESOME
+3:29:26 - SPEED UP Python with caching
+3:39:22 - Function overloading in Python (via dispatch)

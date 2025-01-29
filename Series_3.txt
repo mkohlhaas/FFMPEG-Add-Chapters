@@ -1,0 +1,28 @@
+0:00:00 - Python actually DOES have private attributes (sort of)
+0:09:51 - Python now has COLOURED tracebacks
+0:17:33 - Use THIS instead of pkg_resources
+0:25:08 - Deques can be FASTER than lists in Python
+0:36:55 - How to use Jupyter notebooks for data analysis (2024 tutorial)
+0:50:49 - Create an API in 20 MINUTES with FastAPI (2024 tutorial)
+1:10:12 - Wait, you CAN use braces with Python?!
+1:22:41 - Using Redis/Redict/Valkey in Python (2024 tutorial)
+1:38:03 - Python has BIOMETRIC support?!
+1:49:04 - Implementing OAuth 2.0 from SCRATCH
+2:13:30 - SIMPLIFY your code with decorators (+ typing)
+2:27:04 - Partial functions in Python are SUPER NEAT
+2:35:20 - Python's contextlib is a HIDDEN GEM
+2:39:48 - Pydantic is OP, here's why
+3:07:24 - Liked Pydantic? You'll LOVE Msgspec
+3:22:44 - Are descriptors the most MISUNDERSTOOD part of Python?
+3:39:01 - The CORRECT way to work with temporary files in Python
+3:50:31 - Generics are VITAL in typed Python
+4:07:05 - The COMPLETE guide to properties in Python
+4:22:06 - There's 151 itertools functions you didn't know about
+4:34:12 - Are metaclasses the HARDEST thing in Python?
+4:53:23 - ALL of Python 3.13's MAJOR typing changes
+5:03:37 - You can write TESTS in your docs?
+5:12:12 - Enums in Python are SIMPLE but POWERFUL
+5:23:33 - Creating a Python Discord bot in 2025
+5:39:06 - You NEED to know about Python protocols
+5:48:56 - SAVE TIME and reduce boilerplate with dataclasses
+6:07:14 - What IS typing.Annotated?

@@ -1,0 +1,110 @@
+;FFMETADATA1
+encoder=Lavf61.7.100
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=669999
+title=- COLOURED logging in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=670000
+END=1141999
+title=- HYBRID sync/async functions?!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1142000
+END=1520999
+title=- Why you should ALWAYS use `if _name_ == "__main__"`
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1521000
+END=2113999
+title=- The Python collections module is OVERPOWERED
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2114000
+END=2400999
+title=- Enums in Python are SO useful
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2401000
+END=2883999
+title=- You NEED to know about dataclasses in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2884000
+END=3386999
+title=- Slots make Python FASTER and LEANER
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3387000
+END=4034999
+title=- Context managers are UNDERRATED
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4035000
+END=4642999
+title=- Generators are ESSENTIAL in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4643000
+END=5162999
+title=- Comprehensions, the QUICK and EASY way to make lists (and more) in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5163000
+END=5942999
+title=- ASYNC sockets in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5943000
+END=6328999
+title=- The most CONFUSING thing in Python, explained
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6329000
+END=6869999
+title=- Convert Python programs to EXE
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6870000
+END=7699999
+title=- Itertools is a MUST-KNOW Python module
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7700000
+END=8608999
+title=- Pathlib makes file management a BREEZE
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8609000
+END=8948999
+title=- The BRAND NEW tomllib module
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8949000
+END=9404999
+title=- Exception groups and except* are SERIOUSLY COOL
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9405000
+END=9766999
+title=- Async TaskGroups are brand new and INSANELY useful

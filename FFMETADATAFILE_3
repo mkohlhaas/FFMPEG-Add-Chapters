@@ -1,0 +1,164 @@
+;FFMETADATA1
+encoder=Lavf61.7.100
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=590999
+title=- Python actually DOES have private attributes (sort of)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=591000
+END=1052999
+title=- Python now has COLOURED tracebacks
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1053000
+END=1507999
+title=- Use THIS instead of pkg_resources
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1508000
+END=2214999
+title=- Deques can be FASTER than lists in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2215000
+END=3048999
+title=- How to use Jupyter notebooks for data analysis (2024 tutorial)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3049000
+END=4211999
+title=- Create an API in 20 MINUTES with FastAPI (2024 tutorial)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4212000
+END=4960999
+title=- Wait, you CAN use braces with Python?!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4961000
+END=5882999
+title=- Using Redis/Redict/Valkey in Python (2024 tutorial)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5883000
+END=6543999
+title=- Python has BIOMETRIC support?!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6544000
+END=8009999
+title=- Implementing OAuth 2.0 from SCRATCH
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8010000
+END=8823999
+title=- SIMPLIFY your code with decorators (+ typing)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8824000
+END=9319999
+title=- Partial functions in Python are SUPER NEAT
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9320000
+END=9587999
+title=- Python's contextlib is a HIDDEN GEM
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9588000
+END=11243999
+title=- Pydantic is OP, here's why
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11244000
+END=12163999
+title=- Liked Pydantic? You'll LOVE Msgspec
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12164000
+END=13140999
+title=- Are descriptors the most MISUNDERSTOOD part of Python?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13141000
+END=13830999
+title=- The CORRECT way to work with temporary files in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13831000
+END=14824999
+title=- Generics are VITAL in typed Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14825000
+END=15725999
+title=- The COMPLETE guide to properties in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15726000
+END=16451999
+title=- There's 151 itertools functions you didn't know about
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16452000
+END=17602999
+title=- Are metaclasses the HARDEST thing in Python?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17603000
+END=18216999
+title=- ALL of Python 3.13's MAJOR typing changes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18217000
+END=18731999
+title=- You can write TESTS in your docs?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18732000
+END=19412999
+title=- Enums in Python are SIMPLE but POWERFUL
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19413000
+END=20345999
+title=- Creating a Python Discord bot in 2025
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20346000
+END=20935999
+title=- You NEED to know about Python protocols
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20936000
+END=22033999
+title=- SAVE TIME and reduce boilerplate with dataclasses

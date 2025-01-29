@@ -1,0 +1,92 @@
+;FFMETADATA1
+encoder=Lavf61.7.100
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=777999
+title=- Functools is one of the MOST USEFUL Python modules
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=778000
+END=1607999
+title=- Creating CLIs in Python with Click
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1608000
+END=1958999
+title=- TypedDict is a LIFESAVER
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1959000
+END=2969999
+title=- Metaclasses in 17 minutes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2970000
+END=3178999
+title=- Python's SECRET diamond operator
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3179000
+END=3952999
+title=- Working with APIs in Python? Use Pydantic
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3953000
+END=4821999
+title=- ChatGPT in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4822000
+END=6746999
+title=- Building a website in Python with Flask
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6747000
+END=7306999
+title=- PyScript: Python in the FRONTEND?!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7307000
+END=8935999
+title=- Creating your first PyPI package
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8936000
+END=10149999
+title=- TEACHABLE LLMs in Python (Advertisement)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10150000
+END=11042999
+title=- Threading vs. multiprocessing in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11043000
+END=12107999
+title=- Encoding and decoding JWTs in Python
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12108000
+END=12565999
+title=- Itertools' new batched function is AWESOME
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12566000
+END=13161999
+title=- SPEED UP Python with caching

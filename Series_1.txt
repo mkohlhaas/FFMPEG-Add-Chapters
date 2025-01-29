@@ -1,0 +1,19 @@
+0:00:00 - COLOURED logging in Python
+0:11:10 - HYBRID sync/async functions?!
+0:19:02 - Why you should ALWAYS use `if _name_ == "__main__"`
+0:25:21 - The Python collections module is OVERPOWERED
+0:35:14 - Enums in Python are SO useful
+0:40:01 - You NEED to know about dataclasses in Python
+0:48:04 - Slots make Python FASTER and LEANER
+0:56:27 - Context managers are UNDERRATED
+1:07:15 - Generators are ESSENTIAL in Python
+1:17:23 - Comprehensions, the QUICK and EASY way to make lists (and more) in Python
+1:26:03 - ASYNC sockets in Python
+1:39:03 - The most CONFUSING thing in Python, explained
+1:45:29 - Convert Python programs to EXE
+1:54:30 - Itertools is a MUST-KNOW Python module
+2:08:20 - Pathlib makes file management a BREEZE
+2:23:29 - The BRAND NEW tomllib module
+2:29:09 - Exception groups and except* are SERIOUSLY COOL
+2:36:45 - Async TaskGroups are brand new and INSANELY useful
+2:42:47 - Python's magic methods
